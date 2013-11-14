@@ -3,8 +3,8 @@ Need to:
 Perform SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)
 Setup separate bank account
 Set aside money (~$500) for incidental expenses
-email Jonnathon Huir and Gunnar with contact information
-Look at ***2ban ssh protection
+done: email Jonnathon Huir and Gunnar with contact information
+Look at fail2ban ssh protection
 Look at SSL certificate
 
 
