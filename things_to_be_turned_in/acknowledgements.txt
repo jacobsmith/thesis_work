@@ -1,6 +1,6 @@
 Acknowledgements
 
 Dr. Barb Stedman
-Jonathon Huir
-Gunnar ---
+Jonathon Huer
+Gunnar Hoffman 
 Indy Ruby Brigade
