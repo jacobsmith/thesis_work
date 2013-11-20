@@ -1,5 +1,7 @@
 These terms of service (TOS) will be applied when using SciSci Notes (http://sciscinotes.com).
 
-Any personal information collected will not be sold for any reason. Emails may be used by SciSci Notes to help with issues and collect feedback about the service as needed. Please note you can opt out of any use of your email other than responding to issues at any time. In order to comply with COPPA guidelines, this website will not require any personal information from minors. Teachers will be able to create a Teacher account and add students via their usernames, obtained only through a classroom. Students will have to confirm these connections on the site.
+Any personal information collected will not be sold for any reason. Emails may be used by SciSci Notes to help with issues and collect feedback about the service as needed. Please note you can opt out of any use of your email other than responding to issues at any time. In order to comply with COPPA guidelines, this website will not require any personal information from minors.
 
-All data held by SciSci Notes is protected on a secure server.
+Teachers will be able to create a Teacher account and add students via their usernames, obtained only through a classroom. Students will have to confirm these connections on the site. Additionally, minors (under 13) may enter a parent/guardian or teacher email for use in only in password resets, though it is not required. Without this, however, student passwords cannot be reset, and any work on the server would be inaccessible.
+
+All data held by SciSci Notes is protected on a secure server. Parents/guardians can obtain a record of any information of their child held by SciSci Notes by emailing support@sciscinotes.com. Actions will then be taken to verify proper identity before releasing any information.
