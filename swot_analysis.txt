@@ -1,0 +1,34 @@
+Strengths
+-----------
+Direct purpose
+Cheap
+Scalable
+Low learning curve
+
+
+Weaknesses
+-----------
+Unpolished
+Unclear UX
+Heavy code debt (especially CSS)
+Lack of experience with javascript/jQuery
+
+
+Opportunities
+-----------
+Meets a need
+Lots of money directed at educational apps
+Work closely with BSU
+Already in beta-testing at middle school level
+Very cheap opperating costs
+
+
+Threats
+-----------
+Pencil and Paper
+EndNote - established, very powerful
+Lack of willigness to try new things
+Existing workflows, however convoluted they may be, are familiar
+Does it meet a real need or is it an artificial one? How do we express this?
+
+

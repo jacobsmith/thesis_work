@@ -1,0 +1,10 @@
+SciSci Notes Deliverables
+-------------------------
+
+3 weeks - Rebase to Rails project
+1 week  - Customized search function (allow search through actual text)
+2 weeks - Group projects
+1 week  - Method to accept payment
+2 weeks - Browser Extension or Javascript implementation (One click note add)
+2 weeks - Integration with Dropbox/Evernote/other services
+1 week  - Works Cited formatting
