@@ -8,3 +8,4 @@ SciSci Notes Deliverables
 2 weeks - Browser Extension or Javascript implementation (One click note add)
 2 weeks - Integration with Dropbox/Evernote/other services
 1 week  - Works Cited formatting
+2 weeks - OCR integration (directly copy image from PDF, etc. and turn it into text--possibly a javascript plugin combined with server side Tesseract implementation)
